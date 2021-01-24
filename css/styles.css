@@ -1,0 +1,17 @@
+.logo{
+height: 100px;
+}
+.avatar{
+height: 100px;
+}
+.imgproy{
+height: 100px;
+width: 100px;
+object-fit: cover;
+}
+
+.vizprev{
+    background-color: #eee;
+    border:1px solid  #888;
+    height: 300px;
+}
